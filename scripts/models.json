@@ -1,0 +1,111 @@
+{
+    "VGG (IN1k)": [
+        ["vgg11_bn", "11"],
+        ["vgg13_bn", "13"],
+        ["vgg16_bn", "16"],
+        ["vgg19_bn", "19"]
+    ],
+    "ResNet (IN1k)": [
+        ["resnet18", "18"],
+        ["resnet34", "34"],
+        ["resnet50", "50"],
+        ["resnet101", "101"],
+        ["resnet152", "152"]
+    ],
+    "DenseNet (IN1k)": [
+        ["densenet121", "121"],
+        ["densenet169", "169"],
+        ["densenet201", "201"]
+    ],
+    "ResNeXt (IN1k)": [
+        ["resnext50_32x4d", "50-32x4d"],
+        ["resnext101_32x8d", "101-32x8d"]
+    ],
+    "ViT (IN21k)": [
+        ["vit_base_patch16_224.orig_in21k_ft_in1k", "B/16"]
+    ],
+    "AugReg (IN1k)": [
+        ["vit_small_patch16_224.augreg_in1k", "S/16"],
+        ["vit_base_patch32_224.augreg_in1k", "B/32"],
+        ["vit_base_patch16_224.augreg_in1k", "B/16"]
+    ],
+    "AugReg (IN21k)": [
+        ["vit_tiny_patch16_224.augreg_in21k_ft_in1k", "T/16"],
+        ["vit_small_patch32_224.augreg_in21k_ft_in1k", "S/32"],
+        ["vit_small_patch16_224.augreg_in21k_ft_in1k", "S/16"],
+        ["vit_base_patch32_224.augreg_in21k_ft_in1k", "B/32"],
+        ["vit_base_patch16_224.augreg_in21k_ft_in1k", "B/16"],
+        ["vit_base_patch8_224.augreg_in21k_ft_in1k", "B/8"],
+        ["vit_large_patch16_224.augreg_in21k_ft_in1k", "L/16"]
+    ],
+    "Swin (IN1k)": [
+        ["swin_tiny_patch4_window7_224", "T"],
+        ["swin_small_patch4_window7_224", "S"]
+    ],
+    "Swin (IN21k)": [
+        ["swin_base_patch4_window7_224", "B"],
+        ["swin_large_patch4_window7_224", "L"]
+    ],
+    "DeiT (IN1k)": [
+        ["deit_tiny_distilled_patch16_224", "T"],
+        ["deit_small_distilled_patch16_224", "S"],
+        ["deit_base_distilled_patch16_224", "B"]
+    ],
+    "DeiT-III (IN1k)": [
+        ["deit3_small_patch16_224", "S"],
+        ["deit3_medium_patch16_224", "M"],
+        ["deit3_base_patch16_224", "B"],
+        ["deit3_large_patch16_224", "L"],
+        ["deit3_huge_patch14_224", "H"]
+    ],
+    "DeiT-III (IN21k)": [
+        ["deit3_small_patch16_224_in21ft1k", "S"],
+        ["deit3_medium_patch16_224_in21ft1k", "M"],
+        ["deit3_base_patch16_224_in21ft1k", "B"],
+        ["deit3_large_patch16_224_in21ft1k", "L"],
+        ["deit3_huge_patch14_224_in21ft1k", "H"]
+    ],
+    "MAE (IN1k)": [
+        ["mae_vit_base_patch16", "B"],
+        ["mae_vit_large_patch16", "L"],
+        ["mae_vit_huge_patch14", "H"]
+    ],
+    "BEiT (IN21k)": [
+        ["beit_base_patch16_224.in22k_ft_in22k_in1k", "B"],
+        ["beit_large_patch16_224.in22k_ft_in22k_in1k", "L"]
+    ],
+    "BEiT-v2 (IN21k)": [
+        ["beitv2_base_patch16_224.in1k_ft_in22k_in1k", "B"],
+        ["beitv2_large_patch16_224.in1k_ft_in22k_in1k", "L"]
+    ],
+    "CLIP (WIT)": [
+        ["vit_base_patch16_clip_224.openai_ft_in1k", "B/16"],
+        ["vit_large_patch14_clip_224.openai_ft_in1k", "L/14"]
+    ],
+    "ConvNeXt (IN1k)": [
+        ["convnext_tiny.fb_in1k", "T"],
+        ["convnext_small.fb_in1k", "S"],
+        ["convnext_base.fb_in1k", "B"],
+        ["convnext_large.fb_in1k", "L"]
+    ],
+    "ConvNeXt (IN21k)": [
+        ["convnext_tiny.fb_in22k_ft_in1k", "T"],
+        ["convnext_small.fb_in22k_ft_in1k", "S"],
+        ["convnext_base.fb_in22k_ft_in1k", "B"],
+        ["convnext_large.fb_in22k_ft_in1k", "L"],
+        ["convnext_xlarge.fb_in22k_ft_in1k", "X"]
+    ],
+    "ConvNeXt-v2 (IN1k)": [
+        ["convnextv2_nano.fcmae_ft_in1k", "N"],
+        ["convnextv2_tiny.fcmae_ft_in1k", "T"],
+        ["convnextv2_base.fcmae_ft_in1k", "B"],
+        ["convnextv2_large.fcmae_ft_in1k", "L"],
+        ["convnextv2_huge.fcmae_ft_in1k", "H"]
+    ],
+    "ConvNeXt-v2 (IN21k)": [
+        ["convnextv2_nano.fcmae_ft_in22k_in1k", "N"],
+        ["convnextv2_tiny.fcmae_ft_in22k_in1k", "T"],
+        ["convnextv2_base.fcmae_ft_in22k_in1k", "B"],
+        ["convnextv2_large.fcmae_ft_in22k_in1k", "L"]
+    ]
+}

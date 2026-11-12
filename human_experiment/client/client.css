@@ -1,0 +1,53 @@
+body {
+    font-family: Aria, Helvetica, sans-serif;
+    padding-top: 1%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2vw;
+    margin: 0;
+    padding: 0.5vw;
+}
+
+.paragraph-text {
+    font-size: 1.5vw;
+    margin: 0 auto;
+    width: 60%;
+    padding: 0.2vw;
+}
+
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btn {
+    font-size: 1.5vw;
+}
+
+.btn-div {
+    text-align: center;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    margin: 0;
+}
+
+.screen-div {
+    display: none;
+    margin: 0 auto;
+    width: 95%;
+    outline: 2px dashed;
+    padding: 1%;
+}

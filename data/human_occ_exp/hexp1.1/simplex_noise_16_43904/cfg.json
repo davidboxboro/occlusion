@@ -1,0 +1,6 @@
+{
+    "occ_transform": "simplex_noise",
+    "noise_freq": 16,
+    "npix_occ": 43904,
+    "occ_frac": 0.875
+}

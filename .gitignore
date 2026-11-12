@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+node_modules/
+results
+data
+**/__pycache__/**
+**/*.pth
+**/*.pt

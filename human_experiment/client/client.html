@@ -1,0 +1,258 @@
+<!-- client.html -->
+
+<html>
+
+<head>
+    <!-- css -->
+    <link rel="stylesheet" href="client.css">
+
+    <!-- jquery autocomplete -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
+    <!-- main JS logic -->
+    <script type="module">
+        // export function from client.js
+        import {main} from './client.js';
+        // run main logic of app
+        main();
+    </script>
+</head>
+
+<body>
+    <div id="continue" class="screen-div">
+        <h1>Welcome back</h1>
+        <div class="paragraph-text">
+            <p>
+                Welcome back! You completed <span id="num-completed-trials"></span>
+                out of <span id="num-trials-continue"></span> total trials of the experiment.
+            </p>
+            <p>
+                Before showing you the remaining trial images, we will re-measure your
+                screen size and briefly review the instructions.
+            </p>
+            <div class="btn-div">
+                <button id="continue-btn" class="btn">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="consent" class="screen-div">
+        <h1>Informed consent form</h1>
+        <div class="paragraph-text">
+            <p>
+                This experiment is part of an MIT research project.
+                Your decision to complete this experiment is voluntary. There
+                is no way for us to identify you.
+            </p>
+
+            <p>
+                The only information we will have, in addition to your
+                responses, is the time at which you completed the survey
+                and generic non-identifiable information about your
+                computer such as its resolution and browser version
+                number.
+            </p>
+
+            <p>
+                The results of the research may be presented at
+                scientific meetings or published in scientific journals.
+                The responses collected in this experiment may be
+                released to the scientific community and the public.
+            </p>
+
+            <p>
+                Clicking on the "Submit" button on the bottom of this
+                page indicates that you are at least 18 years of age and
+                agree to complete this experiment voluntarily.
+            </p>
+            <p>
+                This research is being performed at the InfoLab, which is part of MIT CSAIL.
+                Please email mitmturk@mit.edu if you encounter any difficulties or have any
+                questions or concerns.
+            </p>
+
+            <div
+                style="text-align: center; display: flex; flex-direction: row; justify-content: center; align-items: center;">
+                <input type="checkbox" id="consent-checkbox" style="width: 1.5vw; height: 1.5vw;">
+                <span style="padding: 0.5vw;">I agree</span>
+            </div>
+
+            <div class="btn-div">
+                <button id="consent-btn" class="btn">Submit</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="card" class="screen-div">
+        <h1>Determining your screen size</h1>
+        <div class="paragraph-text">
+            <p>
+                This experiment is designed to be conducted in full-screen mode (and will automatically put your browser
+                in full-screen mode).
+                <b>Please ensure that you are in full-screen mode.</b>
+            </p>
+            <div
+                style="text-align: center; display: flex; flex-direction: row; justify-content: center; align-items: center; padding-top: 0vw;">
+                <input type="checkbox" id="fullscreen-checkbox" style="width: 1.5vw; height: 1.5vw;">
+                <span style="padding: 0.5vw;">I am in full screen mode and will stay in this mode for the whole
+                    experiment</span>
+            </div>
+            <p>
+                Credit and debit cards are the same size all over the world. We are going to use that fact to measure
+                the size of your screen.
+            </p>
+            <p>
+                Please find any credit or debit card that you have available
+                (it can also be your driver's license, a gift card, or any other card that is the same size).
+                <b>Place your card onto the screen, and adjust the slider below to
+                    match the blue card on the screen with your own card.</b>
+            </p>
+            <p>
+                (If you do not have access to a real card, then use a ruler to adjust the slider to a
+                width of 3.37 inches or 85.6 mm.)
+            </p>
+
+            <div id="card-slider" style="color: blue;"></div>
+            <img id="card-img" src="card.png" style="width: 50%">
+
+            <div
+                style="text-align: center; display: flex; flex-direction: row; justify-content: center; align-items: center; padding-top: 2vw;">
+                <input type="checkbox" id="card-checkbox" style="width: 1.5vw; height: 1.5vw;">
+                <span style="padding: 0.5vw;">I have adjusted the slider to match my card size with the blue card on the
+                    screen</span>
+            </div>
+        </div>
+        <div class="btn-div">
+            <button id="card-btn" class="btn">Next</button>
+        </div>
+    </div>
+
+    <div id="instr1" class="screen-div">
+        <h1>Instructions</h1>
+        <div class="paragraph-text">
+            <p>
+                You will be shown a series of images. There are 50 possible
+                objects, and each image will contain one of those objects.
+                Your task is to determine which one of the 50 objects is
+                present in the image.
+            </p>
+            <div class="btn-div">
+                <button id="instr1-btn" class="btn">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="instr2" class="screen-div">
+        <h1>Object review</h1>
+        <div class="paragraph-text">
+            <p>
+                Before we begin, we will review the 50 objects.
+            </p>
+            <div class="btn-div">
+                <button id="instr2-btn" class="btn">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="label-review" class="screen-div">
+        <h1>
+            Objects <span id="label-idx-lo"></span>-<span id="label-idx-hi"></span>
+        </h1>
+        <div class="paragraph-text center bold red">
+            <p>
+                Please review the following objects one by one. Click on each object after you have reviewed it.
+            </p>
+        </div>
+        <div id="label-review-pane" style="padding: 1vw;"></div>
+        <div class="btn-div">
+            <button id="label-review-btn" class="btn">Next</button>
+        </div>
+        <div class="paragraph-text">
+            <p>
+                (The "Next" button will become available once you have clicked on all of the objects.)
+            </p>
+        </div>
+    </div>
+
+    <div id="instr3" class="screen-div">
+        <h1>Instructions</h1>
+        <div class="paragraph-text">
+            <p>
+                You are now ready to begin the experiment.
+            </p>
+            <p>
+                Remember, your task is to select the object that you see in the image
+                (from the 50 possible objects). If none of the 50 objects match the image, please
+                select the <b>closest answer</b>.
+            </p>
+            <p>
+                <b>Parts of the image may be modified (e.g., blurred), which may make the object harder to see.</b>
+                If you are not sure what the object is, please make your <b>best guess</b>.
+            </p>
+            <p>
+                To select your answer, you can either <b>click on the object</b>
+                or <b>type the object name</b> into the response box.
+            </p>
+            <p class="blue">
+                You will be rewarded for doing well! You will receive an extra $0.03
+                for every correct answer, and a penalty of $0.03 for every incorrect answer.
+                However, the minimum bonus is $0.
+                This means that you will receive an
+                <b>additional bonus payment of up to $3,</b> depending on your performance!
+            </p>
+            <p class="red">
+                Please look at each image carefully. Your performance will
+                be recorded and analyzed. If you do not take the task
+                seriously, we will know and will have to reject your work.
+            </p>
+            <div class="btn-div">
+                <button id="instr3-btn" class="btn">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="trial" class="screen-div">
+        <h1>
+            Which object do you see? (trial <span id="trial-idx"></span> of <span id="num-trials"></span>)
+        </h1>
+        <!-- image of left; labels on right -->
+        <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+            <!-- image -->
+            <div style="display: flex; flex-direction: column; align-items: center;">
+                <img id="trial-img" src="" style="padding-right: 1vw;">
+                <div class="paragraph-text" style="font-size: 1vw; width: 80%; border: 0px solid;">
+                    <p>
+                        (To select your answer, you can either <b>click on the object</b>
+                        or <b>type the object name</b> into the response box.
+                        Press "Submit" to move on to the next image.)
+                    </p>
+                </div>
+            </div>
+            <!-- label table, response box, submit button -->
+            <div style="display: flex; flex-direction: column; align-items: center; border: 0px solid;">
+                <table id="label-tbl" style="height: 60vh;"></table>
+                <div style="padding-top: 0.5vw; padding-bottom: 0.5vw;">
+                    <input id="response-box" type="text" style="font-size: 2vw;"></input>
+                </div>
+                <div class="btn-div">
+                    <button id="submit-trial-btn" class="btn">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="done" class="screen-div">
+        <h1>Thank you for your participation!</h1>
+        <div class="paragraph-text center">
+            <p>
+                Please enter the code
+                <span id="done-code" style="font-weight: bold; font-size: 1.5vw; color: blue;"></span>
+                on the Prolific page.
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,252 @@
+{
+    "Band-Aid": [
+        "Band_Aid",
+        "n02786058",
+        419
+    ],
+    "T-shirt": [
+        "jersey",
+        "n03595614",
+        610
+    ],
+    "backpack": [
+        "backpack",
+        "n02769748",
+        414
+    ],
+    "banana": [
+        "banana",
+        "n07753592",
+        954
+    ],
+    "knife": [
+        "cleaver",
+        "n03041632",
+        499
+    ],
+    "clothes iron": [
+        "iron",
+        "n03584829",
+        606
+    ],
+    "coffee mug": [
+        "coffee_mug",
+        "n03063599",
+        504
+    ],
+    "computer mouse": [
+        "mouse",
+        "n03793489",
+        673
+    ],
+    "digital watch": [
+        "digital_watch",
+        "n03197337",
+        531
+    ],
+    "doormat": [
+        "doormat",
+        "n03223299",
+        539
+    ],
+    "dumbbell": [
+        "dumbbell",
+        "n03255030",
+        543
+    ],
+    "envelope": [
+        "envelope",
+        "n03291819",
+        549
+    ],
+    "hair dryer": [
+        "hand_blower",
+        "n03483316",
+        589
+    ],
+    "hammer": [
+        "hammer",
+        "n03481172",
+        587
+    ],
+    "lampshade": [
+        "lampshade",
+        "n03637318",
+        619
+    ],
+    "lemon": [
+        "lemon",
+        "n07749582",
+        951
+    ],
+    "lipstick": [
+        "lipstick",
+        "n03676483",
+        629
+    ],
+    "match": [
+        "matchstick",
+        "n03729826",
+        644
+    ],
+    "cell phone": [
+        "cellular_telephone",
+        "n02992529",
+        487
+    ],
+    "necklace": [
+        "necklace",
+        "n03814906",
+        679
+    ],
+    "padlock": [
+        "padlock",
+        "n03874599",
+        695
+    ],
+    "paintbrush": [
+        "paintbrush",
+        "n03876231",
+        696
+    ],
+    "paper towel": [
+        "paper_towel",
+        "n03887697",
+        700
+    ],
+    "park bench": [
+        "park_bench",
+        "n03891251",
+        703
+    ],
+    "pill bottle": [
+        "pill_bottle",
+        "n03937543",
+        720
+    ],
+    "pillow": [
+        "pillow",
+        "n03938244",
+        721
+    ],
+    "plastic bag": [
+        "plastic_bag",
+        "n03958227",
+        728
+    ],
+    "plunger": [
+        "plunger",
+        "n03970156",
+        731
+    ],
+    "power drill": [
+        "power_drill",
+        "n03995372",
+        740
+    ],
+    "printer": [
+        "printer",
+        "n04004767",
+        742
+    ],
+    "racket": [
+        "racket",
+        "n04039381",
+        752
+    ],
+    "ruler": [
+        "rule",
+        "n04118776",
+        769
+    ],
+    "safety pin": [
+        "safety_pin",
+        "n04127249",
+        772
+    ],
+    "salt shaker": [
+        "saltshaker",
+        "n04131690",
+        773
+    ],
+    "sandal": [
+        "sandal",
+        "n04133789",
+        774
+    ],
+    "screw": [
+        "screw",
+        "n04153751",
+        783
+    ],
+    "shovel": [
+        "shovel",
+        "n04208210",
+        792
+    ],
+    "space heater": [
+        "space_heater",
+        "n04265275",
+        811
+    ],
+    "spatula": [
+        "spatula",
+        "n04270147",
+        813
+    ],
+    "music speaker": [
+        "loudspeaker",
+        "n03691459",
+        632
+    ],
+    "strainer": [
+        "strainer",
+        "n04332243",
+        828
+    ],
+    "sunglasses": [
+        "sunglasses",
+        "n04356056",
+        837
+    ],
+    "teddy bear": [
+        "teddy",
+        "n04399382",
+        850
+    ],
+    "television": [
+        "television",
+        "n04404412",
+        851
+    ],
+    "umbrella": [
+        "umbrella",
+        "n04507155",
+        879
+    ],
+    "vase": [
+        "vase",
+        "n04522168",
+        883
+    ],
+    "wallet": [
+        "wallet",
+        "n04548362",
+        893
+    ],
+    "trash can": [
+        "ashcan",
+        "n02747177",
+        412
+    ],
+    "water bottle": [
+        "water_bottle",
+        "n04557648",
+        898
+    ],
+    "whistle": [
+        "whistle",
+        "n04579432",
+        902
+    ]
+}

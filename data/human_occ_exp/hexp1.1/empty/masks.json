@@ -1,0 +1,2802 @@
+{
+    "ILSVRC2012_val_00004924.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000459.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003060.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005688.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008526.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009084.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008596.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006362.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006779.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000419.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009070.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002351.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001139.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002248.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007656.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001262.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000109.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006139.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015375.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007852.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002115.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000360.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002545.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000192.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009545.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012501.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007326.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006905.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005380.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005278.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005649.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001847.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008699.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014536.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006296.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001639.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005384.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00013439.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003369.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001470.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009595.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006509.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003921.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009473.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000895.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000866.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007017.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010197.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015308.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005177.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006617.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005367.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003238.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008583.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009160.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010360.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012383.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006845.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007949.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003352.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009152.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012869.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005063.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006015.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010971.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003138.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00000783.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011031.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015472.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018854.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007293.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003523.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007502.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006111.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017685.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014470.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007768.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018401.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007420.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011455.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006517.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003900.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026816.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025444.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014084.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00001878.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012626.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015735.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008254.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002841.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012988.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012784.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005851.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00013644.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006280.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005044.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009155.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014760.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017842.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006728.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007233.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00005892.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007865.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011346.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009369.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020276.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020267.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017385.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011290.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00003514.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009914.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00016008.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009455.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006843.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020029.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00004648.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00002095.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015901.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018734.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027342.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014725.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00004827.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014996.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006809.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017943.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018279.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008622.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00019150.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010951.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018781.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00006521.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00004174.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029474.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027087.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00019572.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008610.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017743.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00024838.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012069.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011709.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015697.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017956.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00016701.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025041.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011121.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008472.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014215.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020952.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018338.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012444.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018345.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008482.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009714.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00013031.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014960.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027194.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029469.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020262.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030287.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009905.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015962.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00016051.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009696.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008273.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026438.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011742.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014908.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023649.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026095.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032693.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00024366.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00007720.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021464.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009086.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021446.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025885.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020834.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023997.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014379.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022694.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009044.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00008452.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029521.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033390.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020491.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00024332.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030129.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027568.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012969.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030726.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00016088.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018054.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023763.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026690.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012036.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011817.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029713.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021758.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021613.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014063.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030962.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017250.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010473.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014562.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022700.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038877.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038776.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020689.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032911.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00017653.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020721.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00016639.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025935.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012914.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026798.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00015297.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00024720.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037724.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00031394.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038641.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030079.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010790.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027867.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00010731.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030379.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033701.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032802.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00028223.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030293.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030755.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011663.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00009693.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033544.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041903.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021228.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00024853.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032928.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00028508.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00013086.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032341.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023501.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022288.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037285.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029229.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018777.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00018637.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030227.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025786.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022375.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022037.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00031322.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022297.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012023.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033654.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00029248.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040929.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039590.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025832.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041644.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023542.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00028069.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027112.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041067.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00020964.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030334.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026077.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025560.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041855.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032891.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040166.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044257.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00023132.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034310.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022043.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034596.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035752.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042880.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030886.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040657.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032968.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00012929.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00011948.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00036087.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042770.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027994.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037654.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042371.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037493.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040093.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035739.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030640.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034372.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038592.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037237.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00028768.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021957.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033447.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00028072.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030225.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00022193.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038276.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038953.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00019400.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035610.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039826.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043211.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044536.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034105.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044521.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035328.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032002.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044702.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044371.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025000.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038494.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00027770.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030580.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045781.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039149.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045679.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048559.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032263.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039512.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034458.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00036422.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046619.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00047831.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040215.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041019.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00047083.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00026952.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00013176.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045591.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043092.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00030250.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00047141.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042715.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040031.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041113.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037422.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00037040.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043106.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042660.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00038778.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00031872.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00025157.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034412.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00031358.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00033348.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040281.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044878.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041552.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00021652.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043042.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046361.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043571.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00047030.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035550.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046720.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00041775.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044928.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044815.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00049140.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00035483.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046581.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039467.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00036335.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046189.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046098.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046222.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00049255.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046620.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046711.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040534.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00039122.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048945.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048624.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046400.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00047731.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048309.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00031107.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00014473.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045740.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045582.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00032051.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048938.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045236.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042607.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00044421.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042439.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00042753.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045081.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00043496.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00048993.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045714.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00034730.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040070.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00045177.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00040080.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    },
+    "ILSVRC2012_val_00046575.JPEG": {
+        "size": [
+            224,
+            224
+        ],
+        "counts": "PPa1"
+    }
+}
